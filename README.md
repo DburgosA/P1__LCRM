@@ -5,8 +5,6 @@ LCRM es una plataforma diseñada para ayudar a negocios locales en la gestión d
 
 ## Demo
 https://p1-lcrm.vercel.app/dashboard
-[Ver Demo](#)  
-![Captura de pantalla](./screenshot.png)
 
 ## Tecnologías utilizadas
 - React
@@ -42,6 +40,13 @@ https://p1-lcrm.vercel.app/dashboard
 - Dashboard con métricas y gráficos de ventas
 - Registro e inicio de sesión de usuarios
 - Perfil de usuario
+
+## Explicacion funcionalidades
+
+- como no existe un "usuario" para la demostracion, se muestra perfil / Inicio de Sesión y Registro (solo deberia mostrarse perfil) ya que solo al entrar a la paagina por primera vez debe pedir iniciar sesion o registrarse.
+- el usuario es de una empresa X encargada de ventas, por lo tanto cada usuario corresponde a un administrador de esa empresa en donde registre las ventas y clientes de la empresa.
+- el dashboard se encuentra con un grafico que muestra las ventas totales por mes en cantidad no valor de dinero.
+
 
 ## Autor
 
