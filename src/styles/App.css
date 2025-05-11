@@ -13,6 +13,16 @@
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-right: 30px;
+  letter-spacing: 2px;
+  color: #fff;
+  user-select: none;
+  /* Opcional: puedes agregar un pequeño icono con emoji si quieres */
+}
+
 .navbar-links {
   list-style: none;
   display: flex;

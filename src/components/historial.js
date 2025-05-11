@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function Historial() {
-  const [interacciones, setInteracciones] = useState([
+  const [interacciones] = useState([
     { id: 1, cliente: "Juan Pérez", fecha: "2023-01-01", detalle: "Llamada de seguimiento" },
     { id: 2, cliente: "María López", fecha: "2023-01-02", detalle: "Correo de presentación" },
   ]);
